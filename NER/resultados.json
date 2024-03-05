@@ -1,0 +1,460 @@
+{
+    "DIRECCION": {
+        "tp": 23,
+        "fp": 6,
+        "fn": 13,
+        "tn": 32,
+        "p": 0.7931034482758621,
+        "r": 0.6388888888888888,
+        "f1": 0.7076923076923076,
+        "error": [
+            {
+                "contexto": "Lote en venta sobre la calle Rocal al 1600 entre Mons Blois y Fraga, que mide 12.90mts de frente por 48mts de fondo. En el mismo se encuentra construida una casa a refaccionar de 100m2 cub aprox, de construcción solida con techo de losa. Zonificación Rmi   (FOS 0,6  FOT 0,8)  Posibilidad de construir PB + Primer Nivel. Ideal emprendimiento.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "calle Rocal al 1600 entre Mons Blois y Fraga"
+            },
+            {
+                "contexto": "Barrio Cerrado El Paso - Del Viso Lote A22 Lote interno, 744 m2 Cercano a área deportiva y entrada del barrio. El precio publicado incluye un 35% de descuento por ser valor de preventa",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Lote A22"
+            },
+            {
+                "contexto": "GALPON EN ESQUINA ,CON MUY BUEN ACCESO A PANAMERICANA Y RUTA 202 ( A SOLO 600 METROS ). ZONIFICACION: AREA INDUSTRIAL I2. CARACTERISTICAS:. ALTURA 6 METROS SIN COLUMNAS. PORTON: 4.80 mts. alto y 4.50 mts. ancho. LOTE: 10 X 30. CUBIERTOS: 190 M2. FUERZA MOTRIZ. FOS 0.60. FOT 1.20.",
+                "respuesta_predicha": "PANAMERICANA Y RUTA 202 ",
+                "respuesta_esperada": ""
+            },
+            {
+                "contexto": "Excelente propiedad sobre esquina con un frente lineal de 162 metros y salida a tres calles, Cabildo, Guatemala y Pilcomayo. Superficie de terreno 6200 m2. Contrapiso para camiones en casi su totalidad. Sectores descubiertos a reciclar. Zona industrial. Apto todo destino. FOT residencial: 2, FOT industrial: 1,5, FOS: 60% max.",
+                "respuesta_predicha": "Guatemala y Pilcomayo ",
+                "respuesta_esperada": "Cabildo, Guatemala y Pilcomayo"
+            },
+            {
+                "contexto": "Sobre la calle Lope de Vega al 2600 frente al Club de Golf San Martín y a cinco cuadras de Gral Paz, encontramos este lote irregular de 10 metros al frente y 11,91 al fondo y de 48 metros en uno de sus lados en tanto que el restante asciende a 53 metros. Buena ubicación y excelentes medidas.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "calle Lope de Vega al 2600"
+            },
+            {
+                "contexto": "lote en esquina, 10mts x 35mts + martillo. 224 m2, fot 3 mas premios, fos 0.6",
+                "respuesta_predicha": "3 mas premios ",
+                "respuesta_esperada": ""
+            },
+            {
+                "contexto": "Alberti 3359, Mar del Plata - Edificio en construcción: DEPARTAMENTOS DE CATEGORÍA. - Venta en pozo: ANTICIPO Y FINANCIACIÓN. - Entrega aproximada Julio 2025 - 8 pisos de departamentos y quincho común en el piso 9. - Unidades de 2 ambientes de 47 mts2 de 52 mts2 - Unidades de 3 ambientes de 92 m² (semipisos) - Amplios balcones con parrilla. Terraza con pileta compartida.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Alberti 3359"
+            },
+            {
+                "contexto": "El lote 24 tiene 1.036 m2, con un frente de 23 metros en un área central del Barrio Pebble Beach de Pilar Golf. ¡Apto para construir inmediatamente! El precio publicado es para pago al contado. Ofrecemos finaciación: USD 49.000 como anticipo y 24 cuotas de USD 4.300.- Te invitamos a recorrer el lugar y estamos a tu disposición para todo lo que quieras saber.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "lote 24"
+            },
+            {
+                "contexto": "Se ubica sobre Vieytes y Champagnat - Chacras de Canning. Superficie 38.500 m2 (110 x 350 metros) Superficie edificada aprox 180 m2 + Depósito VENTA: U$S 90 x m2 1 hectarea 10.000 m2 x U$S 90 = U$S 900.000 3,85 hectareas = U$S 3.465.000 VENTA: U$S 3.465.000",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Vieytes y Champagnat"
+            },
+            {
+                "contexto": "Casa IDEAL INVERSORES en construccion!!! Inmejorable casa en la calle Sgto. Cabral al 560 LAGOS DE CANNING con $ de expensas (aprox). En su totalidad mide 670 m2, de los cuales 290 m2 son cubiertos y 380 m2 descubiertos. CARACTERISTICAS: ALTURA 6 METROS SIN COLUMNAS. PORTON: 4.80 mts. alto y 4.50 mts. ancho. LOTE: 10 X 30. CUBIERTOS: 190 M2. FUERZA MOTRIZ. FOS 0.60. FOT 1.20",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Sgto. Cabral al 560"
+            },
+            {
+                "contexto": "Importante lote ubicado en excelente esquina de La Plata, con un superficie total de 1975m2, con medidas de 32,91m2 sobre calle 19 y 60,00 sobre calle 36. Zonificación UC/3, con un FOT de 5135m2. El lote posee un total de 450m2 edificados.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "calle 19 y calle 36"
+            },
+            {
+                "contexto": "ATENCIÓN CONSTRUCTORAS : Excelente lote de 8,66 de Frente x 35 de largo, ideal inversión para construcción de departamentos en torre,  emprendimiento o vivienda , en zona centrica En inmejorable ubicación sobre la calle Sitio de Montevideo entre Salta y Oncativo. posee un FOS de 0.6 y un FOT de 3. CONSULTE OPCIONES.SE ESCUCHAN OFERTAS.SE TOMA PROPIEDAD TERMINADA POR MENOR VALOR.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "calle Sitio de Montevideo entre Salta y Oncativo"
+            },
+            {
+                "contexto": "Lote con una superficie total de 248 mts  MEDIDAS:  8,67 mts de frente 8,66 mts al contrafrente 28,50 mts al nord oeste 27,97 mts al nord este.  Zonificacion R3  FOT 1,2.  UBCACION:  La propiedad se encuentra ubicada sobre la calle Islas Malvinas n° 1061 entre Urquiza y Azcuénaga, a 1 cuadra de Carlos Pellegrini, 3 cuadras de Andrés Baranda y solo 10 cuadras de la estación de tren de Quilmes.",
+                "respuesta_predicha": "Malvinas n° 1061 ",
+                "respuesta_esperada": "calle Islas Malvinas n° 1061 entre Urquiza y Azcuénaga"
+            },
+            {
+                "contexto": "Lote en Los Pasos 2 barrios del Jockey. Lote 05 en manzana E de 800 m2, ubicado en esquina, 20 x 40 mtrs. Los Pasos, Barrios cerrados del Jockey cuentan con accesos rápidos. Los mismos se encuentran ubicados en Fisherton dentro de la ciudad de Rosario y con acceso mediante puentes al Jockey Club. Ubicación preferencial cerca de la Autopista Rosario-Córdoba, Calle Mendoza y Calle Urquiza. Cercano al del aeropuerto, al centro comercial de Fisherton Mall y a Funes.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Lote 05 en manzana E"
+            },
+            {
+                "contexto": "PUEYRREDON 86 BIS. Casa 4 dormitorios, 2 baños, patio con parrillero y cochera. Superficie del terreno de 145 m2 (irregular) con Frente de 7.5 metros, contra frente de 9.8 metros, y fondo de 19.17 metros. Planos de mensura desactualizados.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "PUEYRREDON 86 BIS"
+            },
+            {
+                "contexto": "Te presentamos un hermoso chalet de 3 ambientes con gran parque, ubicado en La Primavera entre Zeballos y Godoy Cruz, en el barrio Las Dalias, próximo a Parque Camet. Esta propiedad posee un amplio y muy cómodo living con hogar y entrepiso con playroom con vista hacia el living. La cocina comedor se encuentra mediante barra desayunadora, cuenta con doble ventana que le otorga mucha luminosidad, mesada en \"L\" y espacio para lavarropas. Los dos dormitorios tienen amplios placares con bauleras. El baño es completo, con ducha y revestimientos cerámicos. Además, cuenta con un gran parque en el cual dispone de un quincho semicubierto, pileta y entrada pasante para autos. El chalet posee todos los servicios y se encuentra en buen estado general. Tiene paredón perimetral. El lote tiene 15 metros de frente por 26 metros de fondo, con una superficie total de 390 m2.",
+                "respuesta_predicha": "Primavera entre Zeballos y Godoy Cruz ",
+                "respuesta_esperada": "La Primavera entre Zeballos y Godoy Cruz"
+            },
+            {
+                "contexto": "Cuatro Parcelas en conjunto. 30 de frente x 100 fondo con frente calle 25 de Mayo y San Martín (dos frentes) entre Burmeister y Mosconi. sobre asfalto. con todos los servicios.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "calle 25 de Mayo y San Martín entre Burmeister y Mosconi"
+            },
+            {
+                "contexto": "CASA - 4 AMB - SUITE - PILETA + DEPTO 3AMB - BELGRANO R\nAmplio living comedor con salida al patio - Patio con parrilla, piscina y lavadero - Cocina - Toilette de recepción - Cochera para un auto.\nHall de distribución - Amplio dormitorio con baño en suite y vista al patio - Dos dormitorios con placard y acceso a balcón al frente - Baño completo.\n- Antiguedad: aprox 50 años\n- Cochera para 1 auto\n- Termotanque- Horno y anafe a gas\n- Instalación para aire acondicionado\n- Calefacción por estufas de tiro balanceado\n- Pisos, baños e instalación eléctrica reciclados hace 7 años\n- Parrilla\n- Piscina\nSUPERFICIE. Cubierta: 301 m2. Frente: 8.66m. Fondo: 43.30m. Sup. Terreno: 374.97 m2\nGASTOS: ABL: $15.248. UBICACION: Holmberg al 1600 (entre Virrey del Pino y Carbajal). En el barrio de Villa Ortúzar, con proximidad a numerosos comercios y cercanía a Av. de los Incas y Av. álvarez Thomas",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Holmberg al 1600 (entre Virrey del Pino y Carbajal)"
+            },
+            {
+                "contexto": "Ubicación: Calle 2 bis Nº 1427, entre 517 y 518, Ringuelet, La Plata. Medidas del lote: 10 metros de frente por 27,5 metros de fondo. Comodidades: 2 dormitorio, cocina, living comedor, baño, garage, entrada para auto, patio, lavadero, fondo libre.",
+                "respuesta_predicha": "Calle 2 bis ",
+                "respuesta_esperada": "Calle 2 bis Nº 1427, entre 517 y 518"
+            }
+        ]
+    },
+    "FOT": {
+        "tp": 27,
+        "fp": 1,
+        "fn": 4,
+        "tn": 42,
+        "p": 0.9642857142857143,
+        "r": 0.8709677419354839,
+        "f1": 0.9152542372881356,
+        "error": [
+            {
+                "contexto": "Avenida Montevideo y 105. Lote de 8.66 x 26 mts. - Ideal emprendimiento. Zona S2 R3 - con cloacas. FOS 0.6 y FOT 1.8 Densidad 800 habitantes.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "FOT 1.8"
+            },
+            {
+                "contexto": "Venta de Lote en Barrio Hipódromo, La Plata. Lote sobre Avenida 38 de 328 m2 superficie, el mismo posee zonificación U/C3 (AREA URBANA/ Áreas de promoción y Corredores de Acceso Principal y Complementaria) apto para desarrollo constructivos o comerciales ya que se permiten construir hasta 6 Niveles (Fos 0.6/ Fot Res. 2; Fot Com. 2.4/ Den Res. 800; Den Com. 1.600/ Premios 30% en FOT y DEN.), el mismo cuenta con una casa de 3 dormitorios, cocina comedor, baño y garage, la misma se encuentra a reciclar o demoler. Morfología irregular, medidas 7.54 x 39.82 x 9.43 mts.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Fot Res. 2; Fot Com. 2.4"
+            },
+            {
+                "contexto": "lote en esquina, 10mts x 35mts + martillo. 224 m2, fot 3 mas premios, fos 0.6",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "fot 3 mas premios"
+            },
+            {
+                "contexto": "Lote en esquina entre las calles Moreno y Avellaneda Superficie terreno 210 metros. Zonificacion Rma1 FOT 1.5 FOS 0.6  Posee una construccion de un antiguo local de 220mts",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "FOT 1.5"
+            },
+            {
+                "contexto": "Terreno regular entre medianeras en venta ubicado en calle 13 C e/ 471 y 472 - Localidad City Bell - con acceso por calle asfaltada. Servicios de electricidad, gas natural y agua corriente. El terreno cuenta con una construcción que posee tres dormitorios con piso flotante y placares empotrados, baño completo, cocina separada con muebles sobre y bajo mesada, living comedor con hogar a leña, lavadero cubierto, cochera cubierta para un auto y descubierta para otro, jardín parquizado con pileta y parrilla. Terreno de 10 x 40 mts - 400 mts 2 totales. 130 mts 2 cubiertos. Apto crédito bancario Zona : U/R4 - Cascos Urbanos del Eje Noroeste (Ex UR 5). Corresponde a sectores urbanos consolidados. Se promueve su ocupacion con la asignacion de valores mayores de densidad respecto a otras zonas del eje Noroeste. FOS 0,5. ALTURA REFERENCIA EN NIVELES\t3. FOT COMERCIAL\t0,8. FOT RESIDENCIAL 0,8. DENSIDAD COMERCIAL\t200, DENSIDAD RESIDENCIAL\t200",
+                "respuesta_predicha": "FOT RESIDENCIAL 0,8 ",
+                "respuesta_esperada": "FOT COMERCIAL 0,8. FOT RESIDENCIAL 0,8"
+            }
+        ]
+    },
+    "IRREGULAR": {
+        "tp": 11,
+        "fp": 1,
+        "fn": 3,
+        "tn": 59,
+        "p": 0.9166666666666666,
+        "r": 0.7857142857142857,
+        "f1": 0.8461538461538461,
+        "error": [
+            {
+                "contexto": "Venta de Lote en Barrio Hipódromo, La Plata. Lote sobre Avenida 38 de 328 m2 superficie, el mismo posee zonificación U/C3 (AREA URBANA/ Áreas de promoción y Corredores de Acceso Principal y Complementaria) apto para desarrollo constructivos o comerciales ya que se permiten construir hasta 6 Niveles (Fos 0.6/ Fot Res. 2; Fot Com. 2.4/ Den Res. 800; Den Com. 1.600/ Premios 30% en FOT y DEN.), el mismo cuenta con una casa de 3 dormitorios, cocina comedor, baño y garage, la misma se encuentra a reciclar o demoler. Morfología irregular, medidas 7.54 x 39.82 x 9.43 mts.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            },
+            {
+                "contexto": "Excelente propiedad sobre esquina con un frente lineal de 162 metros y salida a tres calles, Cabildo, Guatemala y Pilcomayo. Superficie de terreno 6200 m2. Contrapiso para camiones en casi su totalidad. Sectores descubiertos a reciclar. Zona industrial. Apto todo destino. FOT residencial: 2, FOT industrial: 1,5, FOS: 60% max.",
+                "respuesta_predicha": "salida a tres calles ",
+                "respuesta_esperada": ""
+            },
+            {
+                "contexto": "lote en esquina, 10mts x 35mts + martillo. 224 m2, fot 3 mas premios, fos 0.6",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            },
+            {
+                "contexto": "TERRENO IRREGULAR 12.90 X 23.20 X 17.05 X 28.90. SUPERFICIE TOTAL 792.02",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            }
+        ]
+    },
+    "DIMENSIONES": {
+        "tp": 30,
+        "fp": 8,
+        "fn": 18,
+        "tn": 18,
+        "p": 0.7894736842105263,
+        "r": 0.625,
+        "f1": 0.6976744186046512,
+        "error": [
+            {
+                "contexto": "Lote de 8.66x22.30. En excelente ubicación, a seis cuadras de avenida Santa Fe y a dos cuadras de calle Paraná. Sobre el terreno hay una edificación de tres ambientes para demoler. Apta vivienda unifamiliar. Zonificación RMB2, FOS 0.5, FOT 1, RADIO 7.",
+                "respuesta_predicha": "Lote de 8.66x22.30 ",
+                "respuesta_esperada": "8.66x22.30"
+            },
+            {
+                "contexto": "Venta de Lote en Barrio Hipódromo, La Plata. Lote sobre Avenida 38 de 328 m2 superficie, el mismo posee zonificación U/C3 (AREA URBANA/ Áreas de promoción y Corredores de Acceso Principal y Complementaria) apto para desarrollo constructivos o comerciales ya que se permiten construir hasta 6 Niveles (Fos 0.6/ Fot Res. 2; Fot Com. 2.4/ Den Res. 800; Den Com. 1.600/ Premios 30% en FOT y DEN.), el mismo cuenta con una casa de 3 dormitorios, cocina comedor, baño y garage, la misma se encuentra a reciclar o demoler. Morfología irregular, medidas 7.54 x 39.82 x 9.43 mts.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "7.54 x 39.82 x 9.43 mts."
+            },
+            {
+                "contexto": "Casa de 4 ambientes en Lomas del Mirador.  Ubicada en Melo 836, Lomas del Mirador.  Lote de 8,66 x 23 Vivienda con 100 años de antigüedad aprox. (ideal modernizar o demoler) de 90 m2 Cubiertos  o Cocina. o Comedor. o Baño. o 3 Dormitorios. o Patio. o Terraza. o Galpón.  ZONIFICACION Zona: U2B FOS 0,6 FOT 2.25 Densidad 700 Altura Máxima 13 mts",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "8,66 x 23"
+            },
+            {
+                "contexto": "Sobre lote de 20x100. Amplio parque al frente, pileta de 4 x 8 y taller. Casa principal Living comedor, cocina, 1 dormitorio amplio con baño, sector lavadero y otra habitación. Tiene otra casa que requiere puesta a punto pero de la misma comodidad. Luz trifasica, gas natural, Agua de pozo c/bomba sumergible y tanque con automático, pozo nuevo. Pileta 4x8 con lajas térmicas.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "20x100"
+            },
+            {
+                "contexto": "Sobre la calle Lope de Vega al 2600 frente al Club de Golf San Martín y a cinco cuadras de Gral Paz, encontramos este lote irregular de 10 metros al frente y 11,91 al fondo y de 48 metros en uno de sus lados en tanto que el restante asciende a 53 metros. Buena ubicación y excelentes medidas.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "10 metros al frente y 11,91 al fondo y de 48 metros en uno de sus lados en tanto que el restante asciende a 53 metros"
+            },
+            {
+                "contexto": "lote en esquina, 10mts x 35mts + martillo. 224 m2, fot 3 mas premios, fos 0.6",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "10mts x 35mts"
+            },
+            {
+                "contexto": "Calle 78 entre 28 y 29 - Lote en venta Características: lote de 10 x 30mts. Valor: U$S 15.000",
+                "respuesta_predicha": "lote de 10 x 30mts ",
+                "respuesta_esperada": "10 x 30"
+            },
+            {
+                "contexto": "El lote 24 tiene 1.036 m2, con un frente de 23 metros en un área central del Barrio Pebble Beach de Pilar Golf. ¡Apto para construir inmediatamente! El precio publicado es para pago al contado. Ofrecemos finaciación: USD 49.000 como anticipo y 24 cuotas de USD 4.300.- Te invitamos a recorrer el lugar y estamos a tu disposición para todo lo que quieras saber.",
+                "respuesta_predicha": "frente de 23 metros en un área central del Barrio Pebble ",
+                "respuesta_esperada": ""
+            },
+            {
+                "contexto": "LOTE CON MEJORAS (CASA A REFACCIONAR) 8,77 X 26,23 X 8,77 X 26,07, SUP.TOTAL 226 MTS2.-  TODOS LOS SERVICIOS.- FOS 0,6   FOT 1,6. ZONIFICACION RTMA.-  ESCRITURA A CARGO DEL COMPRADOR.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "8,77 X 26,23 X 8,77 X 26,07"
+            },
+            {
+                "contexto": "Importante lote ubicado en excelente esquina de La Plata, con un superficie total de 1975m2, con medidas de 32,91m2 sobre calle 19 y 60,00 sobre calle 36. Zonificación UC/3, con un FOT de 5135m2. El lote posee un total de 450m2 edificados.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "32,91m2 sobre calle 19 y 60,00 sobre calle 36"
+            },
+            {
+                "contexto": "Lote de 15 metros de frente por 25 de fondo en excelente zona ubicada a 10 cuadras de la estación de Merlo, en zona residencial cercana al centro. Cuenta con planos aprobados para la construcción de dos duplex de 7,5 mts de frente cada uno. Zona bifamiliar FOS 0,6 FOT 1 Información adicional: Tipo de terreno: Residencial FOS: 0.6 Zonificación: residencial Estado de la propiedad: Muy bueno Servicios: Electricidad Pavimento Cloacas Gas Agua Corriente Características: Alambrado perimetral",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "15 metros de frente por 25 de fondo"
+            },
+            {
+                "contexto": "Ideal para desarrollo Inmobiliario!! Ubicado en zona céntrica con amplio crecimiento de emprendimientos en altura; a 2 cuadras de la Av. Rivadavia; de la Plaza San Martín y de la Estación Ituzaingó del Tren Sarmiento. Superficie Total del Terreno: 450m2. Con doble frente de 17,32 mts y 26 mts de fondo (Conformado por dos lotes de 8,66 x 26) Actualmente con vivienda construída en una planta (más una habitación con baño en 1er piso) de 250m2 cubiertos. Fondo Libre. FOT 3 FOS 0,6 POSIBILIDAD DE INCORPORAR LOTE ADJUNTO A LA OPERACION",
+                "respuesta_predicha": "8,66 x 26 ",
+                "respuesta_esperada": "frente de 17,32 mts y 26 mts de fondo"
+            },
+            {
+                "contexto": "Excelente lote de 586M2, sobre calle 117 entre 526 y 527. Ideal Inversores constructores, muy baja incidencia. Ancho 10 metros x 60 en su parte mas larga y 55.50 en la parte mas corta. FOS 0.6 FOT 0.8. Densidad x Ha 300. Zona UR2. Permitido 10 UF. Escritura inmediata. Proyecto de 10 UF+cocheras",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Ancho 10 metros x 60 en su parte mas larga y 55.50 en la parte mas corta"
+            },
+            {
+                "contexto": "Lote con una superficie total de 248 mts  MEDIDAS:  8,67 mts de frente 8,66 mts al contrafrente 28,50 mts al nord oeste 27,97 mts al nord este.  Zonificacion R3  FOT 1,2.  UBCACION:  La propiedad se encuentra ubicada sobre la calle Islas Malvinas n° 1061 entre Urquiza y Azcuénaga, a 1 cuadra de Carlos Pellegrini, 3 cuadras de Andrés Baranda y solo 10 cuadras de la estación de tren de Quilmes.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "8,67 mts de frente 8,66 mts al contrafrente 28,50 mts al nord oeste 27,97 mts al nord este"
+            },
+            {
+                "contexto": "Lote en Los Pasos 2 barrios del Jockey. Lote 05 en manzana E de 800 m2, ubicado en esquina, 20 x 40 mtrs. Los Pasos, Barrios cerrados del Jockey cuentan con accesos rápidos. Los mismos se encuentran ubicados en Fisherton dentro de la ciudad de Rosario y con acceso mediante puentes al Jockey Club. Ubicación preferencial cerca de la Autopista Rosario-Córdoba, Calle Mendoza y Calle Urquiza. Cercano al del aeropuerto, al centro comercial de Fisherton Mall y a Funes.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "20 x 40 mtrs"
+            },
+            {
+                "contexto": "Hermoso lote interno de 625 mt de largo y 200 mt de ancho en Barrio cerrado San Simón. Muy buena ubicación dentro del barrio. VALOR DE VENTA USD 39.000",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "625 mt de largo y 200 mt de ancho"
+            },
+            {
+                "contexto": "PRE - VENTA de Lotes en BARRIO CERRADO ESTANCIA PIÑERO. Los terrenos son 500 m2, 12 metros de Frente y 40 de Fondo. Contamos con distintas orientaciones. Red de Luz Subterranea, Red de Agua, Iluminación Interna Led, Calles Pavimentadas, Forestación en espacios recreacionales con circuitos aerobicos, Laguna Artificial y Piletas con Juegos para Niños.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "12 metros de Frente y 40 de Fondo"
+            },
+            {
+                "contexto": "Lote ubicado en barrio Parque Bristol en calle Las Heras esquina Falucho. Las medidas del mismo son de 20x11. Se encuentra a unas 12 cuadras del mar. FOS 0,60 FOT 0,60 UNIFAMILIAR Expensas: 0",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "20x11"
+            },
+            {
+                "contexto": "Te presentamos un hermoso chalet de 3 ambientes con gran parque, ubicado en La Primavera entre Zeballos y Godoy Cruz, en el barrio Las Dalias, próximo a Parque Camet. Esta propiedad posee un amplio y muy cómodo living con hogar y entrepiso con playroom con vista hacia el living. La cocina comedor se encuentra mediante barra desayunadora, cuenta con doble ventana que le otorga mucha luminosidad, mesada en \"L\" y espacio para lavarropas. Los dos dormitorios tienen amplios placares con bauleras. El baño es completo, con ducha y revestimientos cerámicos. Además, cuenta con un gran parque en el cual dispone de un quincho semicubierto, pileta y entrada pasante para autos. El chalet posee todos los servicios y se encuentra en buen estado general. Tiene paredón perimetral. El lote tiene 15 metros de frente por 26 metros de fondo, con una superficie total de 390 m2.",
+                "respuesta_predicha": "en \"L\" 15 metros de frente por 26 metros de fondo ",
+                "respuesta_esperada": "15 metros de frente por 26 metros de fondo"
+            },
+            {
+                "contexto": "Casa de 96 m2 cubiertos sobre lote de 10x31 en venta. Living, cocina comedor, dos dormitorios, un baño, cochera cubierta para dos autos. Fondo con patio y espacio verde, lavadero, parrilla, pileta y pequeño galpón.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "10x31"
+            },
+            {
+                "contexto": "CASA SUCRE - BELGRANO R Casa sobre lote propio de doble frente (17.35 x 35) con balcones terraza, jardín, piscina, solárium y quincho con parrilla",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "17.35 x 35"
+            },
+            {
+                "contexto": "Casas Doble Frente de 20, 903 m2 de Lote.- Toma Departamento en Parte de Pago, Zona Olivos /Vicente López. la Misma Cuenta con Un Living Comedor de 5 x 9.50 con Pisos en Cerámicos, Gran Cocina Comedor Diario Refacccionada a Nueva de 6.30 x 6.70 con Mucha Luz y Vista y Salida al Parque, Lavadero Independiente , Dependencia de Servicio con Baño, Toillete con Ducha.-calefacción Central por Radiadores. Gran Parque Arbolado con Piscina, Quincho, Parrilla y Entrada Pasante para Varios Autos.",
+                "respuesta_predicha": "Frente de 20, 903 m2 de Lote.- Toma Departamento en Parte de Pago ",
+                "respuesta_esperada": ""
+            },
+            {
+                "contexto": "El terreno tiene una forma triangular con casi 300 metros lineales de frente a lo largo de la Avenida Presidente Alfonsín, 300 metros sobre la calle Olavarría y una base de 400 metros.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "300 metros lineales de frente a lo largo de la Avenida Presidente Alfonsín, 300 metros sobre la calle Olavarría y una base de 400 metros."
+            },
+            {
+                "contexto": "LOTE EN PROCESO DE SUBDIVISIÓN DE MAYOR LOTE, 15 X 49,75 + UN MARTILLO A FAVOR EN CENTRO DE MANZANA DE 200 M2 (10X20). CON GALPON A DEMOLER. APTO GRAN EMPRENDIMIENTO. VALOR U$S 680.000. Único lote ideal para Emprendimiento Inmobiliario. Tiene 8.70 m de frente por 52.20 de fondo mas martillo de pulmón de manzana. Extraordinaria ubicacion a solo 200 metros de la Av Colon, y de Av. independencia. 400 de la Av. Luro.",
+                "respuesta_predicha": "15 X 49,75 8.70 m de frente por 52.20 de fondo ",
+                "respuesta_esperada": "8.70 m de frente por 52.20 de fondo mas martillo "
+            },
+            {
+                "contexto": "Terreno regular entre medianeras en venta ubicado en calle 13 C e/ 471 y 472 - Localidad City Bell - con acceso por calle asfaltada. Servicios de electricidad, gas natural y agua corriente. El terreno cuenta con una construcción que posee tres dormitorios con piso flotante y placares empotrados, baño completo, cocina separada con muebles sobre y bajo mesada, living comedor con hogar a leña, lavadero cubierto, cochera cubierta para un auto y descubierta para otro, jardín parquizado con pileta y parrilla. Terreno de 10 x 40 mts - 400 mts 2 totales. 130 mts 2 cubiertos. Apto crédito bancario Zona : U/R4 - Cascos Urbanos del Eje Noroeste (Ex UR 5). Corresponde a sectores urbanos consolidados. Se promueve su ocupacion con la asignacion de valores mayores de densidad respecto a otras zonas del eje Noroeste. FOS 0,5. ALTURA REFERENCIA EN NIVELES\t3. FOT COMERCIAL\t0,8. FOT RESIDENCIAL 0,8. DENSIDAD COMERCIAL\t200, DENSIDAD RESIDENCIAL\t200",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "10 x 40 mts"
+            },
+            {
+                "contexto": "Importante lote martillo de 600m2 en el centro de Villa Ballester, zonificación Rm 2, el mismo tiene 7,50 metros de frente por 50 de fondo y se ensancha a 15 metros de frente a los 20,22 metros. El ingreso a las habitaciones de planta alta es independiente ideal para desarrollo comercial, salón de fiestas o instituciones.",
+                "respuesta_predicha": "7,50 metros de frente por 50 de fondo y se ensancha a 15 metros de frente a los 20,22 metros ",
+                "respuesta_esperada": "7,50 metros de frente por 50 de fondo"
+            }
+        ]
+    },
+    "ESQUINA": {
+        "tp": 12,
+        "fp": 0,
+        "fn": 1,
+        "tn": 61,
+        "p": 1.0,
+        "r": 0.9230769230769231,
+        "f1": 0.9600000000000001,
+        "error": [
+            {
+                "contexto": "Lote ubicado en barrio Parque Bristol en calle Las Heras esquina Falucho. Las medidas del mismo son de 20x11. Se encuentra a unas 12 cuadras del mar. FOS 0,60 FOT 0,60 UNIFAMILIAR Expensas: 0",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            }
+        ]
+    },
+    "NOMBRE_BARRIO": {
+        "tp": 11,
+        "fp": 0,
+        "fn": 9,
+        "tn": 54,
+        "p": 1.0,
+        "r": 0.55,
+        "f1": 0.7096774193548387,
+        "error": [
+            {
+                "contexto": "SOLIDO PH EN BARRIO GRAND BELL. AL FRENTE 3 AMBIENTES CON PATIO Y JARDIN DE 7 X5 . SON SOLO 2 UNIDADES EN EL LOTE.  TECHO DE LOSA CON POSIBILIDAD DE AMPLIACION.LOS DOS DORMITORIOS AL FRENTE. LIVING-COMEDOR CON COCINA INTEGRADA. BAÑO COMPLETO. LAVADERO . PATIO Y JARDIN CON PEQUEÑA PILETA DE FIBRA DE VIDRIO. LA PROPIEDAD ESTA DE EPOCA. ANTIGUEDAD 40 AÑOS MUY BUENA UBICACION Y BUENOS ACCESOS. ",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "BARRIO GRAND BELL"
+            },
+            {
+                "contexto": "El lote 24 tiene 1.036 m2, con un frente de 23 metros en un área central del Barrio Pebble Beach de Pilar Golf. ¡Apto para construir inmediatamente! El precio publicado es para pago al contado. Ofrecemos finaciación: USD 49.000 como anticipo y 24 cuotas de USD 4.300.- Te invitamos a recorrer el lugar y estamos a tu disposición para todo lo que quieras saber.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Barrio Pebble Beach de Pilar Golf"
+            },
+            {
+                "contexto": "Se ubica sobre Vieytes y Champagnat - Chacras de Canning. Superficie 38.500 m2 (110 x 350 metros) Superficie edificada aprox 180 m2 + Depósito VENTA: U$S 90 x m2 1 hectarea 10.000 m2 x U$S 90 = U$S 900.000 3,85 hectareas = U$S 3.465.000 VENTA: U$S 3.465.000",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Chacras de Canning"
+            },
+            {
+                "contexto": "Casa IDEAL INVERSORES en construccion!!! Inmejorable casa en la calle Sgto. Cabral al 560 LAGOS DE CANNING con $ de expensas (aprox). En su totalidad mide 670 m2, de los cuales 290 m2 son cubiertos y 380 m2 descubiertos. CARACTERISTICAS: ALTURA 6 METROS SIN COLUMNAS. PORTON: 4.80 mts. alto y 4.50 mts. ancho. LOTE: 10 X 30. CUBIERTOS: 190 M2. FUERZA MOTRIZ. FOS 0.60. FOT 1.20",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "LAGOS DE CANNING"
+            },
+            {
+                "contexto": "Lote en Los Pasos 2 barrios del Jockey. Lote 05 en manzana E de 800 m2, ubicado en esquina, 20 x 40 mtrs. Los Pasos, Barrios cerrados del Jockey cuentan con accesos rápidos. Los mismos se encuentran ubicados en Fisherton dentro de la ciudad de Rosario y con acceso mediante puentes al Jockey Club. Ubicación preferencial cerca de la Autopista Rosario-Córdoba, Calle Mendoza y Calle Urquiza. Cercano al del aeropuerto, al centro comercial de Fisherton Mall y a Funes.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Los Pasos 2 barrios del Jockey"
+            },
+            {
+                "contexto": "Te presentamos un hermoso chalet de 3 ambientes con gran parque, ubicado en La Primavera entre Zeballos y Godoy Cruz, en el barrio Las Dalias, próximo a Parque Camet. Esta propiedad posee un amplio y muy cómodo living con hogar y entrepiso con playroom con vista hacia el living. La cocina comedor se encuentra mediante barra desayunadora, cuenta con doble ventana que le otorga mucha luminosidad, mesada en \"L\" y espacio para lavarropas. Los dos dormitorios tienen amplios placares con bauleras. El baño es completo, con ducha y revestimientos cerámicos. Además, cuenta con un gran parque en el cual dispone de un quincho semicubierto, pileta y entrada pasante para autos. El chalet posee todos los servicios y se encuentra en buen estado general. Tiene paredón perimetral. El lote tiene 15 metros de frente por 26 metros de fondo, con una superficie total de 390 m2.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "barrio Las Dalias"
+            },
+            {
+                "contexto": "Espectacular casa quinta en barrio el rodeo en la plata. acceso sobre ruta 215. muy buen entorno barrio familiar semi cerrado. la propiedad esta desarrolada sobre 4 lotes de 20 x 50 cada uno. la casa esta situada sobre dos lotes es de tipo chalet en una planta y consta de gran estar comedor con vista hacia la piscina",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "barrio el rodeo"
+            },
+            {
+                "contexto": "Barrio Cerrado La Elisa importante propiedad desarrollada en una planta. Amplio living comedor con salida a la galería con vista a la piscina. Dos dormitorios, el principal con vestidor y baño en suit, playrom o tercer dormitorio. Dependencias de servicio con dormitorio y baño privado, lavadero. y cocina comedor. Cochera cubierta para dos vehículos.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Barrio Cerrado La Elisa"
+            },
+            {
+                "contexto": "Excelente cabaña en Prados de La Vega, cuenta con 3 dormitorios, living comedor con cocina integrada, baño completo, galeria, cochera para 2 autos, excelente arbolada, y tanque industrial (pileta).",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Prados de La Vega"
+            }
+        ]
+    },
+    "CANT_FRENTES": {
+        "tp": 7,
+        "fp": 3,
+        "fn": 3,
+        "tn": 61,
+        "p": 0.7,
+        "r": 0.7,
+        "f1": 0.7,
+        "error": [
+            {
+                "contexto": "Excelente propiedad sobre esquina con un frente lineal de 162 metros y salida a tres calles, Cabildo, Guatemala y Pilcomayo. Superficie de terreno 6200 m2. Contrapiso para camiones en casi su totalidad. Sectores descubiertos a reciclar. Zona industrial. Apto todo destino. FOT residencial: 2, FOT industrial: 1,5, FOS: 60% max.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "un frente lineal"
+            },
+            {
+                "contexto": "El lote 24 tiene 1.036 m2, con un frente de 23 metros en un área central del Barrio Pebble Beach de Pilar Golf. ¡Apto para construir inmediatamente! El precio publicado es para pago al contado. Ofrecemos finaciación: USD 49.000 como anticipo y 24 cuotas de USD 4.300.- Te invitamos a recorrer el lugar y estamos a tu disposición para todo lo que quieras saber.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "un frente"
+            },
+            {
+                "contexto": "Te presentamos un hermoso chalet de 3 ambientes con gran parque, ubicado en La Primavera entre Zeballos y Godoy Cruz, en el barrio Las Dalias, próximo a Parque Camet. Esta propiedad posee un amplio y muy cómodo living con hogar y entrepiso con playroom con vista hacia el living. La cocina comedor se encuentra mediante barra desayunadora, cuenta con doble ventana que le otorga mucha luminosidad, mesada en \"L\" y espacio para lavarropas. Los dos dormitorios tienen amplios placares con bauleras. El baño es completo, con ducha y revestimientos cerámicos. Además, cuenta con un gran parque en el cual dispone de un quincho semicubierto, pileta y entrada pasante para autos. El chalet posee todos los servicios y se encuentra en buen estado general. Tiene paredón perimetral. El lote tiene 15 metros de frente por 26 metros de fondo, con una superficie total de 390 m2.",
+                "respuesta_predicha": "doble ventana ",
+                "respuesta_esperada": ""
+            },
+            {
+                "contexto": "Casas Doble Frente de 20, 903 m2 de Lote.- Toma Departamento en Parte de Pago, Zona Olivos /Vicente López. la Misma Cuenta con Un Living Comedor de 5 x 9.50 con Pisos en Cerámicos, Gran Cocina Comedor Diario Refacccionada a Nueva de 6.30 x 6.70 con Mucha Luz y Vista y Salida al Parque, Lavadero Independiente , Dependencia de Servicio con Baño, Toillete con Ducha.-calefacción Central por Radiadores. Gran Parque Arbolado con Piscina, Quincho, Parrilla y Entrada Pasante para Varios Autos.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": "Doble Frente "
+            },
+            {
+                "contexto": "Terreno de TRIPLE FRENTE en venta, entrada por Av San Martín (doble frente) y por Miguel ángel (frente simple). La de Av San Martín tiene 17,38 de frente X 48,55 de fondo, con posibilidad de construir 4032,2 m2 vendibles distribuidos en 7 pisos.",
+                "respuesta_predicha": "TRIPLE FRENTE doble frente frente simple ",
+                "respuesta_esperada": "TRIPLE FRENTE"
+            },
+            {
+                "contexto": "Excelente lote en \"L\" con frente a la ruta 58 (Mariano Castex) - Canning. El mismo posee 10 mts de frente sobre la ruta y 50 mts de fondo, un martillo de 10 mts x 40 mts (con frente a la calle lago mascardi).",
+                "respuesta_predicha": "frente ",
+                "respuesta_esperada": ""
+            }
+        ]
+    },
+    "PILETA": {
+        "tp": 16,
+        "fp": 0,
+        "fn": 4,
+        "tn": 54,
+        "p": 1.0,
+        "r": 0.8,
+        "f1": 0.888888888888889,
+        "error": [
+            {
+                "contexto": "Terreno en venta ubicada sobre calle 618 e/ 6 bis y 7 - Localidad Villa Elvira -  al frente con orientación al Noroeste. Sobre calle de asfalto y servicios de electricidad, agua corriente, gas natural y cloacas. Regular, entre medianeras, alambrado, nivelado y con unas medidas de 10 x 35.41 mts - 354 mts 2 totales. Tiene pileta de fibra",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            },
+            {
+                "contexto": "Alberti 3359, Mar del Plata - Edificio en construcción: DEPARTAMENTOS DE CATEGORÍA. - Venta en pozo: ANTICIPO Y FINANCIACIÓN. - Entrega aproximada Julio 2025 - 8 pisos de departamentos y quincho común en el piso 9. - Unidades de 2 ambientes de 47 mts2 de 52 mts2 - Unidades de 3 ambientes de 92 m² (semipisos) - Amplios balcones con parrilla. Terraza con pileta compartida.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            },
+            {
+                "contexto": "Espectacular casa quinta en barrio el rodeo en la plata. acceso sobre ruta 215. muy buen entorno barrio familiar semi cerrado. la propiedad esta desarrolada sobre 4 lotes de 20 x 50 cada uno. la casa esta situada sobre dos lotes es de tipo chalet en una planta y consta de gran estar comedor con vista hacia la piscina",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            },
+            {
+                "contexto": "Barrio Cerrado La Elisa importante propiedad desarrollada en una planta. Amplio living comedor con salida a la galería con vista a la piscina. Dos dormitorios, el principal con vestidor y baño en suit, playrom o tercer dormitorio. Dependencias de servicio con dormitorio y baño privado, lavadero. y cocina comedor. Cochera cubierta para dos vehículos.",
+                "respuesta_predicha": "",
+                "respuesta_esperada": true
+            }
+        ]
+    }
+}
