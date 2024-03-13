@@ -69,8 +69,7 @@ dir_nro = [
 
 dir_lote= [
     {'LOWER': 'lote'},
-    {'LIKE_NUM': True},
-    {'POS': 'PROPN', 'OP': '*'}, 
+    {'POS': {'IN': ['NUM', 'PROPN']}} 
 ]
 dir_interseccion = [
     {'LOWER': {'IN': ['calle', 'avenida', 'av', 'diagonal', 'diag']}, 'OP':'?'},   
