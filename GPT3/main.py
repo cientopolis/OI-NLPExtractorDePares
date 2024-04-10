@@ -128,7 +128,7 @@ for rta, esperada in zip(rtas.itertuples(index=False), gt.itertuples(index=False
                 })
                 if metrica_valor_rta == "" and metrica_valor_esperada != "":
                     metricas[metrica]["fn"] += 1
-                elif (metrica_valor_esperada == "" and metrica_valor_rta != "") or (metrica_valor_rta != metrica_valor_rta):
+                elif (metrica_valor_esperada == "" and metrica_valor_rta != "") or (metrica_valor_rta != metrica_valor_esperada):
                     metricas[metrica]["fp"] += 1
                 
 
