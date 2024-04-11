@@ -128,7 +128,7 @@ for index, row in input.iterrows():
             if key_metrica in ["CANT_FRENTES","DIMENSIONES", "DIRECCION", "FOT", "NOMBRE_BARRIO"]:
                 correcta= nlp(respuesta).similarity(nlp(esperada)) > 0.9
             elif key_metrica in [ "ESQUINA", "IRREGULAR", "PILETA"]:
-                correcta= True if esperada==respuestas[key_metrica] or (respuestas[key_metrica] != "" and esperada == True) else False
+                correcta= respuestas[key_metrica] != "" and esperada == True
             
             if correcta:
                 metricas[key_metrica]["tp"]+=1
