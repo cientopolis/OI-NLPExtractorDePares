@@ -118,7 +118,7 @@ for rta, esperada in zip(rtas.itertuples(index=False), gt.itertuples(index=False
         if (metrica_valor_rta == "" and metrica_valor_esperada==""):
             metricas[metrica]["tn"] += 1
         else:
-            if (metrica_valor_rta == metrica_valor_esperada) or (metrica_valor_rta and metrica_valor_esperada and nlp(metrica_valor_rta.lower()).similarity(nlp(metrica_valor_esperada.lower())) > 0.9) :
+            if nlp(str(metrica_valor_rta).lower()).similarity(nlp(str(metrica_valor_esperada).lower())) > 0.9:
                 metricas[metrica]["tp"] += 1
             else:
                 metricas[metrica]["error"].append({
