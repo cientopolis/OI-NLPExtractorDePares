@@ -108,9 +108,7 @@ metricas = {
     }
 }
 
-columnas_comunes = set(gt.columns) & set(rtas.columns)
 
-# Itera simultáneamente sobre las filas de ambos archivos
 for rta, esperada in zip(rtas.itertuples(index=False), gt.itertuples(index=False)):
     for metrica in metricas:
         metrica_valor_rta = getattr(rta, metrica)
